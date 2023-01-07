@@ -2,6 +2,8 @@ package SortingAlgorithm;
 
 import java.util.Arrays;
 
+//space complexity o(1)
+//time complexity o(n2)
 public class SelectionSort {
     public static void main(String[] args) {
         int[] arr = {-1,7,-32,0,89};
